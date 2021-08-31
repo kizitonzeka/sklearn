@@ -1,4 +1,4 @@
-[![Udacity](https://circleci.com/gh/Udacity/sklearn.svg?style=svg)](https://github.com/kizitonzeka/sklearn)
+![Udacity](https://circleci.com/gh/Udacity/sklearn.svg?style=shield)](https://github.com/kizitonzeka/sklearn)
 
 ## Project Overview
 
